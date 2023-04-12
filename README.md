@@ -15,7 +15,7 @@
 
 
 ## General Information
-- StaffSphere is a HR management tool designed to provide an easy, friendly and highly customizable interface to every customer.
+- StaffSphere is an HR management tool designed to provide an easy, friendly and highly customizable interface to every customer.
 - This management tool will cover every HR needs that a big company or a small business could face. StaffSphere will help you navigate
  through your staff and be up to date with every detail.
 
